@@ -49,7 +49,9 @@ cal ./cal.exe "10*(-13+17)/1.5-17"
 
 ## Documentation
 
-For detailed documentation of the code and its functionalities, refer to the [Documentation.md](https://github.com/h4jack/cal/Documentation.md) file.## Expression Calculator Features
+For detailed documentation of the code and its functionalities, refer to the [Documentation.md](https://github.com/h4jack/cal/blob/main/Documentation.md) file.
+
+## Expression Calculator Features
 
 The expression calculator project provides the following features:
 
