@@ -100,7 +100,7 @@ The expression calculator project provides the following features:
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/h4jack/cal/blob/main/LICENSE/)
+This project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/h4jack/cal/blob/main/LICENSE/)
 
 
 ## Feedback
